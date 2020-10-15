@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file2.xsl"?>
+<OnlineAcademicTutoring xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="file.xsd">
+	<Teachers>
+	<Name>Karen</Name>
+	<Qualification>Phd</Qualification>
+	<SubjectExpertise>C_Programming</SubjectExpertise>
+	<Designation>Senior_Teacher</Designation>
+	<PhoneNumber>9900116631</PhoneNumber>
+	<Salary>25000</Salary>
+	</Teachers>
+	
+	<Teachers>
+	<Name>Sakshi</Name>
+	<Qualification>MCA</Qualification>
+	<SubjectExpertise>PHP</SubjectExpertise>
+	<Designation>Senior_Teacher</Designation>
+	<PhoneNumber>945626631</PhoneNumber>
+	<Salary>35000</Salary>
+	</Teachers>
+	
+	<Teachers>
+	<Name>Kriya</Name>
+	<Qualification>B.Ed</Qualification>
+	<SubjectExpertise>History</SubjectExpertise>
+	<Designation>Associate_Teacher</Designation>
+	<PhoneNumber>7635902315</PhoneNumber>
+	<Salary>15000</Salary>
+	</Teachers>
+	
+	<Teachers>
+	<Name>Sandy</Name>
+	<Qualification>MSC</Qualification>
+	<SubjectExpertise>Electronics</SubjectExpertise>
+	<Designation>Co-ordinator</Designation>
+	<PhoneNumber>9034521671</PhoneNumber>
+	<Salary>35000</Salary>
+	</Teachers>
+	
+	<Teachers>
+	<Name>Anwesha</Name>
+	<Qualification>M.Ed</Qualification>
+	<SubjectExpertise>Geography</SubjectExpertise>
+	<Designation>Senior_Teacher</Designation>
+	<PhoneNumber>9123432901</PhoneNumber>
+	<Salary>25800</Salary>
+	</Teachers>
+	
+	<Teachers>
+	<Name>Smita</Name>
+	<Qualification>M.Com</Qualification>
+	<SubjectExpertise>Accounts</SubjectExpertise>
+	<Designation>Associate_Teacher</Designation>
+	<PhoneNumber>7785321890</PhoneNumber>
+	<Salary>45000</Salary>
+	</Teachers>
+	
+	<Teachers>
+	<Name>Ratandeep</Name>
+	<Qualification>Phd</Qualification>
+	<SubjectExpertise>English_Literature</SubjectExpertise>
+	<Designation>Senior_Teacher</Designation>
+	<PhoneNumber>9841235764</PhoneNumber>
+	<Salary>55000</Salary>
+	</Teachers>
+	
+	<Teachers>
+	<Name>Rinu</Name>
+	<Qualification>MSC</Qualification>
+	<SubjectExpertise>Physics</SubjectExpertise>
+	<Designation>Senior_Teacher</Designation>
+	<PhoneNumber>8895321076</PhoneNumber>
+	<Salary>45000</Salary>
+	</Teachers>
+	
+	
+	</OnlineAcademicTutoring>
